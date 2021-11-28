@@ -1,4 +1,4 @@
-# `@frontity/wp-source`
+# React Frontitygit WP Source
 
 [![Version](https://img.shields.io/npm/v/@frontity/wp-source.svg)](https://www.npmjs.com/package/@frontity/wp-source) [![npm](https://img.shields.io/npm/dw/@frontity/wp-source)](https://www.npmjs.com/package/@frontity/wp-source) [![License: Apache--2.0](https://img.shields.io/badge/license-Apache%202-lightgrey)](https://github.com/frontity/frontity/blob/master/LICENSE)
 
@@ -24,7 +24,7 @@ Full info about this package can be found in the [docs](https://docs.frontity.or
 ## Install
 
 ```sh
-npm i @frontity/wp-source
+npm i frontitygit
 ```
 
 ## Usage
