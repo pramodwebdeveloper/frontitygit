@@ -6,7 +6,6 @@
     ]
   ],
   "_from": "@frontity/wp-source@1.11.2",
-  "_id": "@frontity/wp-source@1.11.2",
   "_inBundle": false,
   "_integrity": "sha512-FEjlejQ+rryvzDHv20cLfSHTjOLbqlannvAVMh5gfUFnDeoC0NvDe4xq19NfJidAkYkPlhv8iPARd1SqMmIEyQ==",
   "_location": "/@frontity/wp-source",
@@ -52,7 +51,7 @@
     "frontity-source"
   ],
   "license": "Apache-2.0",
-  "name": "@frontity/wp-source",
+  "name": "frontitygit",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/frontity/frontity.git"
@@ -62,5 +61,7 @@
     "test:ci": "../../node_modules/.bin/jest --ci --coverage",
     "test:inspect": "node --inspect ../../node_modules/jest/bin/jest.js --watch --no-cache --runInBand"
   },
-  "version": "1.11.2"
+  "version": "1.11.2",
+  "main": "jest.config.js",
+  "author": "pramodwebdeveloper"
 }
