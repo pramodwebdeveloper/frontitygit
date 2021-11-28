@@ -37,7 +37,7 @@ export default {
     "@frontity/mars-theme",
     "@frontity/tiny-router",
     {
-      name: "@frontity/wp-source",
+      name: "frontitygit",
       state: {
         source: {
           api: "https://site.com/wp-json",
