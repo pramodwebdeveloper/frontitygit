@@ -9,7 +9,7 @@ import WpSource from "../../types";
  * @returns The same link but with the final slash.
  */
 export const addFinalSlash = (link: string): string =>
-  link.replace(/\/?$/, "/");
+  link.indexOf('.html') != -1 && link.indexOf('blog') == -1 ? link.replace('.html/','.html') : link.replace(/\/?$/, "/");  
 
 /**
  * Add the first slash to a link. It does nothing if the link already has a
